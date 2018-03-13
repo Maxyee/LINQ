@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\obj\Debug\LinQ-2.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\bin\LinQ-2.dll.config
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\bin\LinQ-2.dll
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\bin\LinQ-2.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\obj\Debug\LinQ-2.dll
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-2\LinQ-2\obj\Debug\LinQ-2.pdb
