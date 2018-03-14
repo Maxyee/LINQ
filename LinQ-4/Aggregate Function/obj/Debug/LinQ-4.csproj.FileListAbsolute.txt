@@ -1,0 +1,6 @@
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\bin\Debug\LinQ-4.exe.config
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\bin\Debug\LinQ-4.exe
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\bin\Debug\LinQ-4.pdb
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\obj\Debug\LinQ-4.csprojResolveAssemblyReference.cache
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\obj\Debug\LinQ-4.exe
+c:\users\mohon\documents\visual studio 2013\Projects\LinQ-4\LinQ-4\obj\Debug\LinQ-4.pdb
